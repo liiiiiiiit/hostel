@@ -1,0 +1,33 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "Bangkok Thailand temple Wat Arun sunset"
+✅ Got 3 images
+{
+  "success": true,
+  "query": "Bangkok Thailand temple Wat Arun sunset",
+  "count": 3,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/4dd7bfc4daa4.jpg",
+      "caption": "",
+      "source": "wataruntour.com",
+      "original_width": "1024px",
+      "original_height": "769px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/0b8c591f7f7e.jpg",
+      "caption": "",
+      "source": "YouTube",
+      "original_width": "1280px",
+      "original_height": "720px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/b94e6389fc53.jpg",
+      "caption": "",
+      "source": "123RF",
+      "original_width": "1300px",
+      "original_height": "867px"
+    }
+  ]
+}

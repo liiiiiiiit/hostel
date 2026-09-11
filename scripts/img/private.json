@@ -1,0 +1,68 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "boutique hostel private double room warm cozy interior"
+✅ Got 8 images
+{
+  "success": true,
+  "query": "boutique hostel private double room warm cozy interior",
+  "count": 8,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/6727496e4e2e.jpg",
+      "caption": "",
+      "source": "Mi Amor Tulum",
+      "original_width": "1920px",
+      "original_height": "1280px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/b33c23e5baa2.png",
+      "caption": "",
+      "source": "thestylesaloniste",
+      "original_width": "1920px",
+      "original_height": "1080px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/42e80d1114d8.jpg",
+      "caption": "",
+      "source": "Jennifer Adams",
+      "original_width": "2048px",
+      "original_height": "1366px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/535dacbfb950.jpg",
+      "caption": "",
+      "source": "TradeWinds Resort",
+      "original_width": "5500px",
+      "original_height": "3668px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/cfedbf314e25.jpg",
+      "caption": "",
+      "source": "www.booking.com",
+      "original_width": "1024px",
+      "original_height": "768px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/4c31ebf7d724.jpg",
+      "caption": "",
+      "source": "Mirabeau Park Hotel",
+      "original_width": "1200px",
+      "original_height": "900px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/3690461e9054.jpg",
+      "caption": "",
+      "source": "You Should Go Here",
+      "original_width": "1200px",
+      "original_height": "800px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/029e9e132ae0.jpg",
+      "caption": "",
+      "source": "Airbnb",
+      "original_width": "1200px",
+      "original_height": "719px"
+    }
+  ]
+}

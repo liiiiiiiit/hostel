@@ -1,0 +1,68 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "hostel rooftop terrace bar with string lights sunset"
+✅ Got 8 images
+{
+  "success": true,
+  "query": "hostel rooftop terrace bar with string lights sunset",
+  "count": 8,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/93824c1d2552.jpg",
+      "caption": "",
+      "source": "Tagvenue",
+      "original_width": "1680px",
+      "original_height": "1260px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/8231cadea845.png",
+      "caption": "",
+      "source": "SplitShire",
+      "original_width": "1376px",
+      "original_height": "768px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/6d88c5ce0170.jpg",
+      "caption": "",
+      "source": "Peerspace",
+      "original_width": "3840px",
+      "original_height": "2562px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/db9affb30412.jpg",
+      "caption": "",
+      "source": "The Infatuation",
+      "original_width": "3840px",
+      "original_height": "2880px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/44e66df34511.jpg",
+      "caption": "",
+      "source": "Tripadvisor",
+      "original_width": "1200px",
+      "original_height": "1200px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/6fcc2d1079a8.jpg",
+      "caption": "",
+      "source": "Rise Uptown Hotel",
+      "original_width": "1200px",
+      "original_height": "900px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/79ff0960dd02.jpg",
+      "caption": "",
+      "source": "Eater LA",
+      "original_width": "2000px",
+      "original_height": "1322px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/afe91cdd157c.jpg",
+      "caption": "",
+      "source": "The Infatuation",
+      "original_width": "6029px",
+      "original_height": "4019px"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "Sydney Australia opera house harbour"
+✅ Got 3 images
+{
+  "success": true,
+  "query": "Sydney Australia opera house harbour",
+  "count": 3,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/ce67717573df.jpeg",
+      "caption": "",
+      "source": "Medium",
+      "original_width": "1400px",
+      "original_height": "636px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/2812971e3410.jpg",
+      "caption": "",
+      "source": "Britannica",
+      "original_width": "1600px",
+      "original_height": "1056px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/c83b06bf6770.jpg",
+      "caption": "",
+      "source": "Trip.com",
+      "original_width": "1440px",
+      "original_height": "1920px"
+    }
+  ]
+}

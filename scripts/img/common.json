@@ -1,0 +1,68 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "hostel common area lounge interior with travelers"
+✅ Got 8 images
+{
+  "success": true,
+  "query": "hostel common area lounge interior with travelers",
+  "count": 8,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/f4151db6f766.jpeg",
+      "caption": "",
+      "source": "FrontDesk Master",
+      "original_width": "2048px",
+      "original_height": "1438px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/70a8148edb99.jpg",
+      "caption": "",
+      "source": "Yelp",
+      "original_width": "1000px",
+      "original_height": "1000px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/502be35b3a20.jpg",
+      "caption": "",
+      "source": "Guide to Iceland",
+      "original_width": "1408px",
+      "original_height": "768px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/76add050ab97.jpg",
+      "caption": "",
+      "source": "The Hosteller",
+      "original_width": "1200px",
+      "original_height": "800px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/96d84da25e62.jpeg",
+      "caption": "",
+      "source": "Shoyu Sugar",
+      "original_width": "1600px",
+      "original_height": "1200px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/197d0e82207d.jpg",
+      "caption": "",
+      "source": "Nomadic Matt",
+      "original_width": "1350px",
+      "original_height": "790px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/a21c4c751c84.jpg",
+      "caption": "",
+      "source": "www.booking.com",
+      "original_width": "1024px",
+      "original_height": "768px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/45838fdd4318.jpg",
+      "caption": "",
+      "source": "Kiwi The Beauty",
+      "original_width": "3024px",
+      "original_height": "4032px"
+    }
+  ]
+}

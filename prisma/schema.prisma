@@ -1,0 +1,79 @@
+// WorldHostel — Prisma schema (SQLite)
+// JSON arrays (images, amenities) are stored as JSON strings per the data contract.
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+model Hostel {
+  id                String   @id @default(cuid())
+  slug              String   @unique
+  name              String
+  city              String
+  country           String
+  description       String // short one-liner (~100 chars)
+  longDescription   String // 2-3 sentences
+  address           String
+  images            String // JSON string[] (6 urls each)
+  amenities         String // JSON string[]
+  rating            Float // 1-10 scale, e.g. 9.2
+  reviewCount       Int
+  priceFrom         Int // USD per night, min room price
+  type              String // "backpacker" | "boutique" | "party" | "chill"
+  featured          Boolean  @default(false)
+  distanceToCenter  Float // km
+  freeCancellation  Boolean  @default(true)
+  breakfastIncluded Boolean  @default(false)
+  rooms             Room[]
+  reviews           Review[]
+  bookings          Booking[]
+  createdAt         DateTime @default(now())
+}
+
+model Room {
+  id            String    @id @default(cuid())
+  hostelId      String
+  hostel        Hostel    @relation(fields: [hostelId], references: [id], onDelete: Cascade)
+  name          String // e.g. "6-Bed Mixed Dorm"
+  type          String // "dorm" | "private" | "double" | "ensuite"
+  capacity      Int // max guests
+  pricePerNight Int // USD
+  bedsTotal     Int // units available
+  description   String
+  amenities     String // JSON string[]
+  bookings      Booking[]
+}
+
+model Review {
+  id        String   @id @default(cuid())
+  hostelId  String
+  hostel    Hostel   @relation(fields: [hostelId], references: [id], onDelete: Cascade)
+  author    String
+  country   String
+  rating    Int // 1-10
+  comment   String
+  createdAt DateTime @default(now())
+}
+
+model Booking {
+  id         String   @id @default(cuid())
+  code       String   @unique // "WH-" + 6 alphanumerics uppercase
+  hostelId   String
+  hostel     Hostel   @relation(fields: [hostelId], references: [id])
+  roomId     String
+  room       Room     @relation(fields: [roomId], references: [id])
+  guestName  String
+  guestEmail String
+  checkIn    String // "YYYY-MM-DD"
+  checkOut   String // "YYYY-MM-DD"
+  guests     Int
+  nights     Int
+  totalPrice Int // nights * room.pricePerNight
+  status     String   @default("CONFIRMED")
+  createdAt  DateTime @default(now())
+}

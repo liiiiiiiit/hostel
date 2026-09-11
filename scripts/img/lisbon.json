@@ -1,0 +1,33 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "Lisbon Portugal colorful streets city view"
+✅ Got 3 images
+{
+  "success": true,
+  "query": "Lisbon Portugal colorful streets city view",
+  "count": 3,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/f2f7ce16abcb.jpg",
+      "caption": "",
+      "source": "The Week",
+      "original_width": "1400px",
+      "original_height": "788px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/bb3f05e99747.jpg",
+      "caption": "",
+      "source": "Wallpaper Abyss - Alpha Coders",
+      "original_width": "1920px",
+      "original_height": "1440px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/037026761904.jpg",
+      "caption": "",
+      "source": "Portugal Getaways",
+      "original_width": "1140px",
+      "original_height": "1140px"
+    }
+  ]
+}

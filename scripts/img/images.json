@@ -1,0 +1,93 @@
+{
+  "common": [
+    "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/f4151db6f766.jpeg",
+    "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/70a8148edb99.jpg",
+    "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/502be35b3a20.jpg",
+    "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/76add050ab97.jpg",
+    "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/96d84da25e62.jpeg",
+    "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/197d0e82207d.jpg",
+    "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/a21c4c751c84.jpg",
+    "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/45838fdd4318.jpg"
+  ],
+  "private": [
+    "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/6727496e4e2e.jpg",
+    "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/b33c23e5baa2.png",
+    "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/42e80d1114d8.jpg",
+    "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/535dacbfb950.jpg",
+    "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/cfedbf314e25.jpg",
+    "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/4c31ebf7d724.jpg",
+    "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/3690461e9054.jpg",
+    "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/029e9e132ae0.jpg"
+  ],
+  "rooftop": [
+    "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/8231cadea845.png",
+    "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/6d88c5ce0170.jpg",
+    "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/db9affb30412.jpg",
+    "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/44e66df34511.jpg",
+    "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/6fcc2d1079a8.jpg",
+    "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/79ff0960dd02.jpg",
+    "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/afe91cdd157c.jpg"
+  ],
+  "exterior": [
+    "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/4be0e188145a.jpeg",
+    "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/5b730e9fd513.jpg",
+    "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/2aa20b69164e.jpg",
+    "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/505bd6ab5f7e.jpg",
+    "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/55262f1acbc2.jpeg",
+    "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/1a002ec62307.jpg"
+  ],
+  "lisbon": [
+    "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/f2f7ce16abcb.jpg",
+    "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/bb3f05e99747.jpg",
+    "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/037026761904.jpg"
+  ],
+  "barcelona": [
+    "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/038a91b73676.jpg",
+    "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/eb1320bfdcf6.jpg",
+    "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/5916d39b3841.jpg"
+  ],
+  "bangkok": [
+    "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/4dd7bfc4daa4.jpg",
+    "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/0b8c591f7f7e.jpg",
+    "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/b94e6389fc53.jpg"
+  ],
+  "bali": [
+    "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/c33e2f14dda0.jpg",
+    "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/87b296a7a359.jpg",
+    "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/809e040f4961.jpg"
+  ],
+  "amsterdam": [
+    "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/bbaca76d7bdd.jpg",
+    "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/3c6bc36fad92.jpg",
+    "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/03f297215a3b.jpg"
+  ],
+  "prague": [
+    "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/79c663eef5e4.jpg",
+    "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/7541a5a18027.jpg",
+    "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/bc7815e3a369.jpg"
+  ],
+  "tokyo": [
+    "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/941b923be0c7.jpg",
+    "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/7a1584e968c5.jpg",
+    "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/8c7ce9455a70.jpg"
+  ],
+  "sydney": [
+    "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/ce67717573df.jpeg",
+    "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/2812971e3410.jpg",
+    "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/c83b06bf6770.jpg"
+  ],
+  "dorm": [
+    "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/6392e3be33f8.jpg",
+    "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/302830292455.jpg",
+    "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/8f4a1bc23303.jpg",
+    "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/c1bf64d41591.jpg"
+  ],
+  "hero": [
+    "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/a045221b79f2.jpg",
+    "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/8c048aab3378.jpg",
+    "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/be5ff15d607f.jpg",
+    "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/026ebc2b496a.jpg",
+    "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/f583c48575c7.jpg",
+    "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/3f65973238f0.jpg"
+  ]
+}

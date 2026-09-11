@@ -1,0 +1,33 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "Amsterdam Netherlands canals houses"
+✅ Got 3 images
+{
+  "success": true,
+  "query": "Amsterdam Netherlands canals houses",
+  "count": 3,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/bbaca76d7bdd.jpg",
+      "caption": "",
+      "source": "legacyintl.org",
+      "original_width": "1000px",
+      "original_height": "1000px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/3c6bc36fad92.jpg",
+      "caption": "",
+      "source": "DepositPhotos",
+      "original_width": "1600px",
+      "original_height": "1167px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/03f297215a3b.jpg",
+      "caption": "",
+      "source": "WYSE Travel Confederation",
+      "original_width": "2048px",
+      "original_height": "1367px"
+    }
+  ]
+}

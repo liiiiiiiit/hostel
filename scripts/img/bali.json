@@ -1,0 +1,33 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "Bali Indonesia rice terraces Canggu"
+✅ Got 3 images
+{
+  "success": true,
+  "query": "Bali Indonesia rice terraces Canggu",
+  "count": 3,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/c33e2f14dda0.jpg",
+      "caption": "",
+      "source": "Bali Holiday Secrets",
+      "original_width": "1080px",
+      "original_height": "907px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/87b296a7a359.jpg",
+      "caption": "",
+      "source": "Hotels.com",
+      "original_width": "1600px",
+      "original_height": "1066px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/809e040f4961.jpg",
+      "caption": "",
+      "source": "Tripadvisor",
+      "original_width": "1200px",
+      "original_height": "1200px"
+    }
+  ]
+}

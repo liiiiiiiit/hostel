@@ -1,0 +1,33 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "Tokyo Japan Shibuya street night lights"
+✅ Got 3 images
+{
+  "success": true,
+  "query": "Tokyo Japan Shibuya street night lights",
+  "count": 3,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/941b923be0c7.jpg",
+      "caption": "",
+      "source": "JAPAN STAR TRAVEL AGENCY",
+      "original_width": "2560px",
+      "original_height": "1920px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/7a1584e968c5.jpg",
+      "caption": "",
+      "source": "Quartz",
+      "original_width": "1920px",
+      "original_height": "1281px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/8c7ce9455a70.jpg",
+      "caption": "",
+      "source": "HotelsCombined",
+      "original_width": "1366px",
+      "original_height": "768px"
+    }
+  ]
+}
